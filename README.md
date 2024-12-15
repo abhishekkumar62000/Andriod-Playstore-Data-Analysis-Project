@@ -1,7 +1,6 @@
 # 📱 **Android Playstore Data Analysis Project** 🚀
 ![Picsart_24-09-06_19-13-51-173-1](https://github.com/user-attachments/assets/672ab3ce-0d7b-4ce9-96ed-6dfc84748c01)
 ![Picsart_24-09-06_19-20-07-444](https://github.com/user-attachments/assets/21724395-d833-49b0-b4e0-4a0b6797b3f1)
-![pngwing com (26)](https://github.com/user-attachments/assets/1e0dd913-257f-4255-93ed-0fe27ed82362)
 ---
 
 # 📱 **Android Playstore Data Analysis Project** 🚀
